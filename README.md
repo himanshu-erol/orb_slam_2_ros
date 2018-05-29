@@ -1,9 +1,9 @@
 # orb_slam_2_ros
 
-##Description
-this is a slightly modified version of original repo with change cam params and vocabulary file addition.
+## Description
+This is a slightly modified version of original repo with change cam params and vocabulary file addition.
 
-** Download Vocabulary folder from the original library [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) and place in in the root i.e. orb_slam_2_ros_folder.
+** Download Vocabulary folder from the original library [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) and place in in the root i.e. orb_slam_2_ros folder.
 
 ## Overview
 
